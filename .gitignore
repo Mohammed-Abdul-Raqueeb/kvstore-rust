@@ -1,0 +1,10 @@
+/target/
+data/
+*.log
+*.kvs
+snapshot.kvs.tmp
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
